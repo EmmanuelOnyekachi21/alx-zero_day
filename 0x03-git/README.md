@@ -1,3 +1,6 @@
+#Author
+Emmanuel
+
 # 0x03-git
 
 This directory contains exercises and examples related to Git for the ALX Software Engineering Pre-Course.
